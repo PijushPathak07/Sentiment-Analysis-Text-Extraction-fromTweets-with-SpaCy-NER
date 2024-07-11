@@ -35,7 +35,7 @@ Using NLP and ML approaches, this work explores named entity recognition (NER) a
 https://ijsret.com/wp-content/uploads/2024/05/IJSRET_V10_issue3_130.pdf
 
 ## How to Use
-1. **Clone the repository**: `git clone https://github.com/your-username/your-repo-name.git`
+1. **Clone the repository**: `git clone https://github.com/PijushPathak07/Sentiment-Analysis-Text-Extraction-fromTweets-with-SpaCy-NER`
 2. **Install the required libraries**: `pip install -r requirements.txt`
 3. **Run the preprocessing script**: `python preprocess.py`
 4. **Train the models**: `python train_models.py`
